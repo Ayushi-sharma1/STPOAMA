@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Ayushi sharma\AndroidStudioProjects\STPOAMA\STPOA.iml" filepath="C:\Users\Ayushi sharma\AndroidStudioProjects\STPOAMA\STPOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STPOAMA.iml" filepath="$PROJECT_DIR$/STPOAMA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Ayushi sharma\AndroidStudioProjects\STPOAMA\app\app.iml" filepath="C:\Users\Ayushi sharma\AndroidStudioProjects\STPOAMA\app\app.iml" />
+    </modules>
+  </component>
+</project>

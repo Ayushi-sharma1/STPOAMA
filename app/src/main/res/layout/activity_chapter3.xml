@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv1"
+            android:text="10. Removal of person likely to commit offence.—"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gl1"
+            android:rowCount="4"
+            android:columnCount="3">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt2"
+                android:text="poonam"
+                android:textColor="@android:color/transparent"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt3"
+                android:text="(1)"
+                android:textColor="@android:color/black"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt4"
+                android:text="Where the Special Court is satisfied\n, upon a complaint or a police\n report that a person is likely\n to commit an offence under Chapter\n II of this Act in any area\n included in =Scheduled Areas‘ or\n =tribal areas‘, as referred to \nin article 244 of the Constitution,\n 3[or any area identified under \nthe provisions of clause (vii) of \nsub-section (2) of section 21], it may,\n by order in writing, direct \nsuch person to remove himself beyond\n the limits of such area, by such route\n and within such time as may be\n specified in the order, and not\n to return to that area from which\n he was directed to remove himself\n for such period, not exceeding \n4[three years], as may be specified \nin the order."
+                />
+
+
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt5"
+                android:text="poonam"
+                android:textColor="@android:color/transparent"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt6"
+                android:text="(2)"
+                android:textColor="@android:color/black"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt7"
+                android:text="The Special Court shall, along\n with the order under sub-section\n (1), communicate to the person\n directed under that sub-section\n the grounds on which such \norder has been made."
+                />
+
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt8"
+                android:text="poonam"
+                android:textColor="@android:color/transparent"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt9"
+                android:text="(3)"
+                android:textColor="@android:color/black"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/txt10"
+                android:text="The Special Court may revoke\n or modify the order made \nunder sub-section (1), for the\n reasons to be recorded in writing\n, on the representation made by\n the person against whom such order\n has been made or by any other \nperson on his behalf within \nthirty days from the date of\n the order."
+                />
+        </GridLayout>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="12. Taking measurements and photographs, etc., of persons against whom order under section 10 is made.—"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textColor="@android:color/black"/>
+
+
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:rowCount="4"
+                android:columnCount="3">
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="poonam"
+                    android:textColor="@android:color/transparent"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="(1)"
+                    android:textColor="@android:color/black"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Every person against whom an\n order has been made under\n section 10 shall, if so required\n by the Special Court, allow his\n measurements and photographs\n to be taken by a police officer."
+                    />
+
+
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="poonam"
+                    android:textColor="@android:color/transparent"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="(2)"
+                    android:textColor="@android:color/black"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="If any person referred to\n in sub-section (1), when required\n to allow his measurements or\n photographs to be taken, resists\n or refuses to allow the taking\n of such measurements or \nphotographs, it shall be lawful\n to use all necessary means to \nsecure the taking thereof."
+                    />
+
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="poonam"
+                    android:textColor="@android:color/transparent"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="(3)"
+                    android:textColor="@android:color/black"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Resistance to or refusal to allow\n the taking of measurements or \nphotographs under sub-section \n(2) shall be deemed to be an \noffence under section 186 of the \nIndian Penal Code (45 of 1860)."
+                    />
+
+
+
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:id="@+id/txt11"
+                    android:text="poonam"
+                    android:textColor="@android:color/transparent"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:id="@+id/txt12"
+                    android:text="(4)"
+                    android:textColor="@android:color/black"
+                    />
+                <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:id="@+id/txt13"
+                    android:text="Where an order under section\n 10 is revoked, all measurements\n and photographs (including negatives)\n taken under sub-section (2) shall\n be destroyed or made over to \nthe person against whom such\n order is made."
+                    />
+            </GridLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="13. Penalty for non compliance of order under section 10.—"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"/>
+
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:rowCount="4"
+            android:columnCount="3">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="poonam"
+                android:textColor="@android:color/transparent"
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="(1)"
+                android:textColor="@android:color/transparent"
+
+                />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Any person contravening an\n order of the Special Court made\n under section 10 shall be\n punishable with imprisonment\n for a term which may extend to \none year and with fine."
+                />
+
+
+
+
+        </GridLayout>
+        </LinearLayout>
+
+
+
+</ScrollView>

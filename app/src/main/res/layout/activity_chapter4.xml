@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="14. Special Court and Exclusive Special Court.—("
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gl1"
+        android:rowCount="4"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt2"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt3"
+            android:text="(1)"
+            android:textColor="@android:color/black"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt4"
+            android:text="For the purpose of providing\n for speedy trial, the State\n Government shall, with the \nconcurrence of the Chief Justice\n of the High Court, by notification\n in the Official Gazette, establish\n an Exclusive Special Court \nfor one or more Districts:
+Provided that in Districts where\n less number of cases under this\n Act is recorded, the State\n Government shall, with the concurrence\n of the Chief Justice of the High\n Court, by notification in the Official\n Gazette, specify for such Districts\n, the Court of Session to be a \nSpecial Court to try the offences\n under this Act:
+Provided further that the Courts\n so established or specified \nshall have power to directly take\n cognizance of offences under \nthis Act."
+            />
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt5"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt6"
+            android:text="(2)"
+            android:textColor="@android:color/black"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt7"
+            android:text="It shall be the duty of the\n State Government to establish \nadequate number of Courts to ensure\n that cases under this Act are \ndisposed of within a period of two\n months, as far as possible."
+            />
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt8"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt9"
+            android:text="(2)"
+            android:textColor="@android:color/black"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt10"
+            android:text="In every trial in the Special \nCourt or the Exclusive Special\n Court, the proceedings shall be\n continued from day-to-day until\n all the witnesses in attendance\n have been examined, unless the\n Special Court or the Exclusive\n Special Court finds the adjournment\n of the same beyond the following\n day to be necessary for reasons\n to be recorded in writing:
+Provided that when the trial\n relates to an offence under\n this Act, the trial shall, as\n far as possible, be completed\n within a period of two months\n from the date of filing of the\n charge sheet.]"
+            />
+
+
+    </GridLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="14A. Appeals.—"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gl1"
+        android:rowCount="4"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt2"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt3"
+            android:text="(1)"
+            android:textColor="@android:color/black"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt4"
+            android:text="Notwithstanding anything contained\n in the Code of Criminal Procedure\n,1973 (2 of 1974), an appeal shall\n lie, from any judgment, sentence\n or order, not being an interlocutory\n order, of a Special Court or an \nExclusive Special Court, to the High\n Court both on facts and on law."
+            />
+
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt5"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt6"
+            android:text="(2)"
+            android:textColor="@android:color/black"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt7"
+            android:text="Notwithstanding anything contained \nin sub-section (3) of section 378\n of the Code of Criminal Procedure,\n 1973 (2 of 1974), an appeal shall\n lie to the High Court against\n an order of the Special Court \nor the Exclusive Special Court \ngranting or refusing bail."
+            />
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt8"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt9"
+            android:text="(3)"
+            android:textColor="@android:color/black"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt10"
+            android:text="Notwithstanding anything contained\n in any other law for the time being \nin force, every appeal under this\n section shall be preferred within\n a period of ninety days from \nthe date of the judgment, sentence\n or order appealed from:
+Provided that the High Court\n may entertain an appeal after \nthe expiry of the said period\n of ninety days if it is satisfied\n that the appellant had sufficient\n cause for not preferring the\n appeal within the period of ninety\n days:
+Provided further that no appeal\n shall be entertained after the\n expiry of the period of one\n hundred and eighty days."
+            />
+
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt11"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt12"
+            android:text="(4)"
+            android:textColor="@android:color/black"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt13"
+            android:text="Every appeal preferred under\nsub-section (1) shall, as far as\n possible, be disposed of within\n a period of three months from\n the date of admission of the \nappeal.]"
+            />
+
+    </GridLayout>
+</LinearLayout>
+</ScrollView>

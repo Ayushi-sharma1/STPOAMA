@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="5. Enhanced punishment subsequent conviction"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gl1"
+        android:rowCount="2"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt2"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt3"
+            android:text="(1)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt4"
+            android:textSize="15dp"
+            android:text="Whoever, having already been \nconvicted of an offence under \nthis Chapter is convicted for the\n second offence or any offence \nsubsequent to the second offence\n, shall be punishable with \nimprisonment for a term which\n shall not be less than one\n year but which may extend to\n the punishment provided for that\n offence."/>
+
+    </GridLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="6. Application of certain provisions of the Indian Penal Code.—"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gl3"
+        android:rowCount="2"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt9"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt10"
+            android:text="(1)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt11"
+            android:text="Subject to the other provisions\n of this Act, the provisions of section\n 34, Chapter III, Chapter IV, Chapter V,\n Chapter VA, section 149 and Chapter\n XXIII of the Indian Penal Code\n (45 of 1860), shall, so far as\n may be, apply for the purposes \nof this Act as they apply for the\n purposes of the Indian Penal\n Code."/>
+
+    </GridLayout>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="7. Forfeiture of property of certain persons.—"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gl1"
+        android:rowCount="2"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt2"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt3"
+            android:text="(1)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt4"
+            android:text="Where a person has been convicted of\n any offence punishable under this \nChapter, the Special Court may, in\n addition to awarding any punishment\n, by order in writing, declare that\n any property, movable or immovable\n or both, belonging to the person\n, which has been used for the \ncommission of that offence, shall\n stand forfeited to Government."/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt5"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt6"
+            android:text="(2)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt7"
+            android:text="Where any person is accused of\n any offence under this Chapter\n, it shall be open to the Special\n Court trying him to pass an order \nthat all or any of the properties,\n movable or immovable or both,belonging\n to him, shall, during the period of\n such trial, be attached, and where\n such trial ends in conviction, the\n property so attached shall be\n liable to forfeiture to the extent\n it is required for the purpose of\n realisation of any fine imposed \nunder this Chapter."/>
+    </GridLayout>
+
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8. Presumption as to offences.—"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rowCount="4"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="(a)"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="In a prosecution for an offence under this Chapter, if it is proved that—"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="(1)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="the accused rendered 1[any\n financial assistance in relation\n to the offences committed by\n a person accused of], or reasonably\n suspected of, committing, an \noffence under this Chapter, \nthe Special Court shall presume,\n unless the contrary is proved, \nthat such person had abetted\n the offence;"
+            />
+
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt8"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="(b)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="a group of persons committed an\n offence under this Chapter\n and if it is proved that the\n offence committed was a sequel to\n any existing dispute regarding land\n or any other matter, it shall \nbe presumed that the offence\n was committed in furtherance\n of the common intention or in \nprosecution of the common object;"
+            />
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt12"
+            android:text="(c)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt13"
+            android:text="the accused was having personal\n knowledge of the victim or his\n family, the Court shall presume that\n the accused was aware of the\n caste or tribal identity of the \nvictim, unless the contrary\n is proved.]"
+            />
+
+
+
+    </GridLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="9. Conferment of powers.—"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gl1"
+        android:rowCount="4"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt2"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt3"
+            android:text="(1)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt4"
+            android:text="Notwithstanding anything contained\n in the Code or in any other\n provision of this Act, the State\n Government may, if it considers\n it necessary or expedient so to\n do,—"/>
+
+    </GridLayout>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gd2"
+        android:rowCount="2"
+        android:columnCount="5">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt8"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt9"
+            android:text="(2)"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt10"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt11"
+            android:text="(a)"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt12"
+            android:text="for the prevention of and for\n coping with any offence\n under this Act, or"
+            />
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt13"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt14"
+            android:text="(2)"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt15"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt16"
+            android:text="(b)"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt17"
+            android:text="for any case or class or\n group of cases under this\n Act,
+in any district or part thereof,\n confer, by notification in the\n Official Gazette, on any officer\n of the State Government, the \npowers exercisable by a police\n officer under the Code in\n such district or part thereof or\n as the case may be, for such\n case or class or group of cases,\n and in particular, the powers\n of arrest, investigation and \nprosecution of persons before any\n Special Court."/>
+    </GridLayout>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gd3"
+        android:rowCount="2"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt18"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt19"
+            android:text="(2)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt20"
+            android:text="All officers of police and all\n other officers of Government\n shall assist the officer referred\n to in sub-section (1) in the\n execution of the provisions \nof this Act or any rule, scheme\n or order made thereunder."/>
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt21"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt22"
+            android:text="(3)"
+            android:textColor="@android:color/black"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt23"
+            android:text="The provisions of the Code shall,\n so far as may be, apply to the \nexercise of the powers by an\n officer under sub-section \n(1)."
+            />
+    </GridLayout>
+
+</LinearLayout>
+</ScrollView>

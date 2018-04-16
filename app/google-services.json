@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "587215348676",
+    "firebase_url": "https://stpoa-ecfa4.firebaseio.com",
+    "project_id": "stpoa-ecfa4",
+    "storage_bucket": "stpoa-ecfa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587215348676:android:648cee87d87d4f09",
+        "android_client_info": {
+          "package_name": "com.stpoa.ashit.stpoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587215348676-6d16jg8ptjs1kica67bpog50g6oq0jtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stpoa.ashit.stpoa",
+            "certificate_hash": "9b5b5574db23aed5e31ee664df4bfa14a7a10e60"
+          }
+        },
+        {
+          "client_id": "587215348676-fkqge19jvet3l5eltptbu1hv0iqcvgo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbDiy-_Q3tnX8y8lRRq4J_noemFvlWKc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587215348676-fkqge19jvet3l5eltptbu1hv0iqcvgo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

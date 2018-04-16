@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Administrator"
+        android:id="@+id/admin_menu">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_update_laws"
+                    android:icon="@drawable/update_laws"
+                    android:title="Update Laws" />
+                <item
+                    android:id="@+id/nav_delete_laws"
+                    android:icon="@drawable/delete_laws"
+                    android:title="Delete laws" />
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/login_register"
+                    android:title="Login/Register" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Users">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_view_law"
+                    android:icon="@drawable/view_laws"
+                    android:title="View Laws" />
+                <item
+                    android:id="@+id/nav_feedback"
+                    android:icon="@drawable/feedback"
+                    android:title="Feedback" />
+                <item
+                    android:id="@+id/about"
+                    android:title="About" />
+            </group>
+        </menu>
+    </item>
+</menu>

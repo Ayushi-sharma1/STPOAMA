@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv1"
+        android:text="1. Short title, extent and commencement"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gl1"
+        android:rowCount="4"
+        android:columnCount="3">
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt2"
+            android:text="poonam"
+            android:textColor="@android:color/transparent"
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt3"
+            android:text="(1)"
+            android:textColor="@android:color/transparent"
+
+            />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:id="@+id/txt4"
+            android:textSize="15dp"
+            android:text="(1) This Act may be called the Scheduled Castes\n and
+the Scheduled Tribes (Prevention of\n Atrocities) Act, 1989.\n
+(2) It extends to the whole of India \nexcept the State of Jammu and Kashmir.\n
+(3) It shall come into force on such date2\n
+as the Central Government may, by\n notification in the
+Official\n Gazette, appoint."
+            />
+    </GridLayout>
+
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/tv5"
+    android:text="2. Act to override other laws.—"
+    android:textSize="15dp"
+    android:textStyle="bold"
+    android:textColor="@android:color/black"/>
+
+
+<GridLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/gl2"
+    android:rowCount="4"
+    android:columnCount="3">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/txt6"
+        android:text="poonam"
+        android:textColor="@android:color/transparent"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/txt7"
+        android:text="(1)"
+        android:textColor="@android:color/transparent"
+
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/txt8"
+        android:text="Save as otherwise provided in this\n Act, the provisions of this Act shall\n have effect notwithstanding anything\n inconsistent therewith contained\n in any other law for the time being\n in force or any custom or usage or\n any instrument having effect by \nvirtue of any such law."
+        />
+
+
+
+
+
+</GridLayout>
+</LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.stpoa.ashit.stpoa.FeedbackActivity">
+
+
+    <TextView
+        android:id="@+id/feedback_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Feedback:"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/feedback_editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="250"
+        android:hint="You can write here 250 characters"
+        android:textStyle="italic">
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/ratingMe_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Rating Me:"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <RatingBar
+        android:id="@+id/ratingbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="30dp"
+        android:numStars="5"
+        android:stepSize="1.0" />
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/submit_feedback"
+        android:text="SUMBIT"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="130dp"
+        style="@style/defaultFont"/>
+
+</LinearLayout>
